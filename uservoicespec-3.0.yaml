@@ -21,7 +21,7 @@ info:
     Too fast, slow down!
   version: 0.1.0
 servers:
-- url: https://mygeaerospace.uservoice.com/api/v2
+- url: https://<domainName>.uservoice.com/api/v2
 security:
 - oauth2_client_credentials:
   - admin
